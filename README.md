@@ -1,12 +1,12 @@
 # Who’s Your Judge? On the Detectability of LLM-Generated Judgments
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv:2508.01191-%23f2806bff.svg)]() [![Code](https://img.shields.io/badge/Code-GitHub-%238a91faff.svg)]() [![Daily](https://img.shields.io/badge/Daily_Paper-Hugging_Face-%2340D9B0.svg)]()
+[![Paper](https://img.shields.io/badge/Paper-arXiv:2508.01191-%23f2806bff.svg)](https://arxiv.org/abs/2509.25154) [![Code](https://img.shields.io/badge/Code-GitHub-%238a91faff.svg)]() [![Daily](https://img.shields.io/badge/Daily_Paper-Hugging_Face-%2340D9B0.svg)](https://huggingface.co/papers/2509.25154)
 
 This repository contains the official Python implementation of the framework described in the paper **"Who’s Your Judge? On the Detectability of LLM-Generated Judgments."**
 
 ## News
 
-- **[09/29/2025]** Our paper is available on [arXiv]().
+- **[09/29/2025]** Our paper is available on [arXiv](https://arxiv.org/abs/2509.25154).
 - **[09/29/2025]** Our dataset is available on [huggingface](https://huggingface.co/datasets/wjldw/JD-Bench).
 - **[09/29/2025]** GitHub repository created. Code release is coming soon.
 
