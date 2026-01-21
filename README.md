@@ -39,5 +39,10 @@ Large Language Model (LLM)-based judgments leverage powerful LLMs to efficiently
 If our repo helped you out, we'd love it if you gave us a citation! Thanks for supporting our work!
 
 ```tex
-
+@article{li2025s,
+  title={Who's Your Judge? On the Detectability of LLM-Generated Judgments},
+  author={Li, Dawei and Tan, Zhen and Zhao, Chengshuai and Jiang, Bohan and Huang, Baixiang and Ma, Pingchuan and Alnaibari, Abdullah and Shu, Kai and Liu, Huan},
+  journal={arXiv preprint arXiv:2509.25154},
+  year={2025}
+}
 ```
